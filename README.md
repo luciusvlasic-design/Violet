@@ -1,7 +1,4 @@
 # 𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧
-
-<div align="center" style="font-family: Arial, sans-serif; color: #8b0000; font-size: 16px; margin-top: 10px;">
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • POWERED BY ⚔️ ALI-HAIDER ⚔️
 </div>
 > A modular WhatsApp automation bot with group management, media tools, utilities, games, owner controls, automation features, Telegram pairing, and a web dashboard.
 
