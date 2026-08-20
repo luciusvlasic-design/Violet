@@ -1,4 +1,5 @@
 # 𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧 Bot
+
 <img src="[https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffb6c1,50:ffe4e1,100:ffffff&text=𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧%20MD&fontColor=8b0000&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20%E2%9A%94%EF%B8%8FALI%20HAIDER%E2%9A%94%EF%B8%8F](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffb6c1,50:ffe4e1,100:ffffff&text=𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧%20MD&fontColor=8b0000&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20%E2%9A%94%EF%B8%8FALI%20HAIDER%E2%9A%94%EF%B8%8F)" />
 <div style="
 margin-top: -60px;
@@ -16,7 +17,7 @@ text-shadow:
 0 0 36px #ffe4e1,
 0 0 48px #ffffff;
 padding: 12px 0;">
-🔥 WAKE UP TO REALITY 🔥
+
 </div>
 
 <div align="center" style="font-family: Arial, sans-serif; color: #8b0000; font-size: 16px; margin-top: 10px;">
