@@ -2,6 +2,10 @@
 
 > A modular WhatsApp automation bot with group management, media tools, utilities, games, owner controls, automation features, Telegram pairing, and a web dashboard.
 
+<p align="center">
+  <img src="assets/violet-evergarden.jpg" alt="Violet Evergarden bot artwork" width="520">
+</p>
+
 **Violet Evergarden** is a Node.js-based WhatsApp bot built around the Baileys WhatsApp Web client library.[1] It combines a command dispatcher, modular command files, persistent local bot data, media conversion helpers, a Telegram pairing interface, and an Express/Socket.IO dashboard. The bot is designed for personal automation, group administration, media handling, and lightweight entertainment.
 
 ## Bot Identity
