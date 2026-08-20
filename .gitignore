@@ -1,0 +1,25 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# WhatsApp authentication and runtime state
+auth/
+data/
+sessions/
+*.session
+
+# Logs and generated files
+*.log
+*.tmp
+*.bak
+*.webm
+*.mp4
+*.mp3
+*.png
+*.jpeg
+
+# Dependencies and local tooling
+node_modules/
+.npm/
+.DS_Store
