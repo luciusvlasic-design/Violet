@@ -1,24 +1,4 @@
-# 𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧 Bot
-
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffb6c1,50:ffe4e1,100:ffffff&text=𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧%20MD&fontColor=8b0000&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20%E2%9A%94%EF%B8%8FALI%20HAIDER%E2%9A%94%EF%B8%8F](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffb6c1,50:ffe4e1,100:ffffff&text=𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧%20MD&fontColor=8b0000&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20%E2%9A%94%EF%B8%8FALI%20HAIDER%E2%9A%94%EF%B8%8F)" />
-<div style="
-margin-top: -60px;
-text-align: center;
-font-size: 32px;
-font-weight: 1000;
-letter-spacing: 3px;
-background: linear-gradient(90deg, #ffc0cb, #ffffff, #ffe4e1);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-shadow:
-0 0 12px #ffc0cb,
-0 0 24px #ffffff,
-0 0 36px #ffe4e1,
-0 0 48px #ffffff;
-padding: 12px 0;">
-
-</div>
+# 𝐕𝐢𝐨𝐥𝐞𝐭 𝐄𝐯𝐞𝐫𝐠𝐚𝐫𝐝𝐞𝐧
 
 <div align="center" style="font-family: Arial, sans-serif; color: #8b0000; font-size: 16px; margin-top: 10px;">
 "> Built on Baileys • Designed for Speed • Enhanced for Stability • POWERED BY ⚔️ ALI-HAIDER ⚔️
